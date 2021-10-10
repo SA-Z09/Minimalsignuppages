@@ -1,1 +1,1 @@
-# Minimalsignuppages
+# Minimal sign-up pages
